@@ -1,4 +1,4 @@
-# Hey there👋, I'm Nate!
+# Hey there👋, I'm Parth!
 #### I am React Developer
 
 
