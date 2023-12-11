@@ -6,14 +6,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: Javascipt / REACT / HTML /HTML5/ CSS/SCSS/TAILWIND CSS/NEXT-JS/J-QUERY/TYPESCRIPT
 
-- 🔭 I’m currently working on this page. 
+
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://images.unsplash.com/photo-1653387300291-bfa1eeb90e16?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)' alt='github' height='40'>](https://github.com/Parthpanchal23)  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Parthpanchal23)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Parthpanchal23)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Parthpanchal23&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Parthpanchal23/contributions?format=svg&private=false)  
+  
 
