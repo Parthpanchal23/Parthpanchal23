@@ -1,5 +1,5 @@
-# Hey there👋, I'm Parth!
-#### I am React Developer
+# Hey there👋, I'm Parth Panchal!
+#### I am React JS / Next js / Typescript / Mern Developer.
 
 
 # I'm a self-taught passionate FrontEnd developer from India 🇮🇳.
@@ -7,7 +7,7 @@
 
 **About me**
 
-- 💼 FrontEnd Engineer at [TechEinhub](https://techein.com/)
+- 💼 FrontEnd Engineer/React Developer/Next.js developer/MERN stack working as freelancer. 
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
