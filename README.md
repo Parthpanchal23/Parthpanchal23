@@ -7,7 +7,7 @@
 
 **About me**
 
-- 💼 FrontEnd Engineer/React Developer/Next.js developer/MERN stack working as freelancer. 
+- 💼 FrontEnd Engineer/React Developer/Next.js developer/MERN stack . 
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
