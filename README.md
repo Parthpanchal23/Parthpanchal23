@@ -2,7 +2,7 @@
 #### I am React JS / Next js / Typescript / Mern Developer.
 
 
-# I'm a self-taught passionate FrontEnd developer from India 🇮🇳.
+# I'm a self-taught passionate React js developer from India 🇮🇳.
 
 
 **About me**
